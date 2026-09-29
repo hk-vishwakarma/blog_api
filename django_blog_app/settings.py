@@ -148,7 +148,7 @@ SIMPLE_JWT = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-   "hemant-blog-application.netlify.app"
+   "https://hemant-blog-application.netlify.app"
 ]
 
 STATIC_URL = "static/"
